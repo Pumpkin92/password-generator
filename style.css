@@ -1,0 +1,79 @@
+body {
+  background-color: #1c1c1c !important;
+}
+
+.page-container {
+  padding: 3rem;
+  margin: 100px;
+  margin-left: 300px;
+  margin-right: 300px;
+  background-color: #1f2937;
+  border-radius: 6px;
+}
+
+h1 {
+  font-family: "Karla", sans-serif;
+  font-size: 44px !important;
+  color: #ffffff;
+  line-height: 40px !important;
+  margin-left: 54px !important;
+}
+
+.h1-main {
+  margin-top: 54px;
+}
+.h1-sub {
+  color: #4bdf87;
+}
+
+h3 {
+  font-family: "Inter", sans-serif;
+  font-size: 23px !important;
+  color: #bebfc4;
+  line-height: 28px !important;
+  margin-left: 54px !important;
+}
+form {
+  margin-top: 20px;
+}
+label {
+  font-family: "Inter", sans-serif;
+  color: #bebfc4;
+  margin-left: 54px;
+  margin-right: 10px;
+}
+
+input {
+  width: 60px;
+
+  text-align: center;
+}
+
+button {
+  width: 223px;
+  height: 42px;
+  font-family: "Inter", sans-serif;
+  font-size: 16px !important;
+  background-color: #0db981;
+  color: #ffffff;
+  margin-top: 54px !important;
+  margin-bottom: 34px !important;
+  border-radius: 6px !important;
+  margin-left: 54px !important;
+}
+
+hr {
+  border: 1px solid #2f3e53 !important;
+}
+
+.pass-div {
+  background-color: #28354a;
+  text-align: center;
+  color: #55f991;
+  margin: 0 auto;
+  margin-top: 35px;
+  width: 250px;
+  height: 39px;
+  border-radius: 6px;
+  line-height: 2.4;
+}
